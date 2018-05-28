@@ -1,4 +1,6 @@
 ## CSharp Project - C#
+* C# 6.0
+* doNet Framework [4.5.2](https://www.microsoft.com/en-us/download/details.aspx?id=42642) *or* [4.6](https://www.microsoft.com/en-us/download/confirmation.aspx?id=48137) *or* [4.6.2](https://www.microsoft.com/en-us/download/details.aspx?id=53344) *(in offline)*
 * Microsoft Visual Studio 2015
 
 ### Documentation
@@ -21,8 +23,6 @@
 ```
 
 ### Themes
-Themes for C#
-
-[Material-Skin](https://github.com/IgnaceMaes/MaterialSkin)
-
-[Flat-UI](https://github.com/saneki-discontinued/FlatUI)
+* Themes for C#
+  * [Material-Skin](https://github.com/IgnaceMaes/MaterialSkin)
+  * [Flat-UI](https://github.com/saneki-discontinued/FlatUI)
